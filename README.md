@@ -18,6 +18,22 @@ The analysis covers the full pipeline — data cleaning in Python, structured qu
 
 ---
 
+## 🖥️ Dashboard Preview
+
+**Page 1 — Overview**
+
+![Dashboard Overview](screenshots/page1_overview.png)
+
+**Page 2 — Sector Analysis**
+
+![Sector Analysis](screenshots/page2_sector_analysis.png)
+
+**Page 3 — City Analysis**
+
+![City Analysis](screenshots/page3_city_analysis.png)
+
+---
+
 ## 👥 Stakeholders
 
 - **Startup Founders** — To understand which sectors and cities have historically attracted funding, and how macro shocks like a pandemic affect investor behavior
@@ -125,22 +141,6 @@ The raw data came from two separate sources and needed significant work before i
 **Investment Type Insights**
 - **Seed** rounds were the most active investment type during COVID by deal count
 - **Growth** rounds carried the largest average deal size at ~$234M
-
----
-
-## 🖥️ Dashboard Preview
-
-**Page 1 — Overview**
-
-![Dashboard Overview](screenshots/page1_overview.png)
-
-**Page 2 — Sector Analysis**
-
-![Sector Analysis](screenshots/page2_sector_analysis.png)
-
-**Page 3 — City Analysis**
-
-![City Analysis](screenshots/page3_city_analysis.png)
 
 ---
 
